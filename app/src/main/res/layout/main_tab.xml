@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:layout_gravity="bottom"
+    android:orientation="horizontal" >
+    <RadioGroup
+        android:id="@+id/tab_menu"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/tab_menu_bg"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/tab_menu_practise"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:drawableTop="@drawable/xml_tab_menu_practise"
+            android:gravity="center"
+            android:text="@string/tab_menu_practise"
+            android:textColor="@drawable/xml_text_selected"
+            android:layout_weight="1"
+            style="@style/RadioButtonNoCirStyle"
+            android:checked="true"/>
+
+        <RadioButton
+            android:id="@+id/tab_menu_record"
+            
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:drawableTop="@drawable/xml_tab_menu_record"
+            android:gravity="center"
+            android:text="@string/tab_menu_record"
+            android:textColor="@drawable/xml_text_selected"
+            style="@style/RadioButtonNoCirStyle"
+            android:layout_weight="1" />
+
+        <RadioButton
+            android:id="@+id/tab_menu_wrong"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:drawableTop="@drawable/xml_tab_menu_wrong"
+            android:gravity="center"
+            android:text="@string/tab_menu_wrong"
+            android:textColor="@drawable/xml_text_selected"
+            android:layout_weight="1"
+            style="@style/RadioButtonNoCirStyle" />
+                <RadioButton
+            android:id="@+id/tab_menu_save"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:drawableTop="@drawable/xml_tab_menu_save"
+            android:gravity="center"
+            android:text="@string/tab_menu_save"
+            android:textColor="@drawable/xml_text_selected"
+            android:layout_weight="1"
+            style="@style/RadioButtonNoCirStyle" />
+    </RadioGroup>
+</LinearLayout>

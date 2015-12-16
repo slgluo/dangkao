@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dangjiao.db",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\raw\\dangjiao.db"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chapter.txt",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\raw\\chapter.txt"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\raw\\choice_question.txt",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\raw\\choice_question.txt"
+    }
+]

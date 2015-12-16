@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_tab_menu_practise.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_tab_menu_practise.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_exercise_order.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_exercise_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_menu_left.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_menu_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_exercise_chapter.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_exercise_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_exercise_strengthen.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_exercise_strengthen.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_menu_right.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_menu_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_exercise_mock.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_exercise_mock.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_tab_menu_wrong.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_tab_menu_wrong.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_tab_menu_record.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_tab_menu_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_btn_exercise_random.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_btn_exercise_random.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_tab_menu_save.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_tab_menu_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xml_text_selected.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\drawable\\xml_text_selected.xml"
+    }
+]

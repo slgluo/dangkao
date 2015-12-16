@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">dangkao</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- tab_menu_string -->
+    <string name="tab_menu_practise">练习</string>
+    <string name="tab_menu_record">考试记录</string>
+    <string name="tab_menu_wrong">错题库</string>
+    <string name="tab_menu_save">收藏</string>
+
+    <!-- btn_exercise_string -->
+    <string name="string_exercise_order">顺序练习</string>
+    <string name="string_exercise_chapter">章节练习</string>
+    <string name="string_exercise_random">随机练习</string>
+    <string name="string_exercise_strengthen">强化训练</string>
+    <string name="string_exercise_mock">模拟考试</string>
+    <string name="title_activity_order_exercise">OrderExerciseActivity</string>
+    <string name="title_activity_chapter_exercise">ChapterExerciseActivity</string>
+
+</resources>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\menu\\order_exercise.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\menu\\order_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\menu\\logo.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\menu\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chapter_exercise.xml",
+        "source": "C:\\Users\\luoluo\\StudioProjects\\dangkao\\app\\src\\main\\res\\menu\\chapter_exercise.xml"
+    }
+]

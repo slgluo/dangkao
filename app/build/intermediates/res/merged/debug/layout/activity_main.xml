@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include
+            android:id="@+id/main_bar"
+            layout="@layout/main_bar" />
+
+        <FrameLayout
+            android:id="@+id/fg_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/main_tab"
+            android:layout_below="@+id/main_bar" >
+        </FrameLayout>
+
+        <include
+            android:id="@+id/main_tab"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_alignParentBottom="true"
+            layout="@layout/main_tab" />
+    </RelativeLayout>
+
+</merge>

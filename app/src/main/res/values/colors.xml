@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme">#019ef9</color>
+    <color name="white">#ffffff</color>
+    <color name="tab_menu_bg">#f3f2f2</color>
+    <color name="text_press_b">#778899</color>
+    <color name="text_press_a">#019ef9</color>
+    
+    <!-- main_btn_color -->
+    <drawable name="exercise_order_normal">#FFC125</drawable>
+    <drawable name="exercise_order_pressed">#FF7F24</drawable>
+    <drawable name="exercise_chapter_normal">#EE82EE</drawable>
+    <drawable name="exercise_chapter_pressed">#EE00EE</drawable>
+    <drawable name="exercise_random_normal">#9BCD9B</drawable>
+    <drawable name="exercise_random_pressed">#9ACD32</drawable>
+    <drawable name="exercise_strengthen_normal">#ffffff</drawable>
+    <drawable name="exercise_strengthen_pressed">#ffffff</drawable>
+    <drawable name="exercise_mock_normal">#68838B</drawable>
+    <drawable name="exercise_mock_pressed">#6A5ACD</drawable>
+</resources>
